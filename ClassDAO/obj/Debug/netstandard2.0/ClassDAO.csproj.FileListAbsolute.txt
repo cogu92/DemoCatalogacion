@@ -1,0 +1,16 @@
+C:\H2K\Git\Catalogacion\webcatalogacion\WebAppCatalogacion\ClassDAO\bin\Debug\netstandard2.0\ClassDAO.deps.json
+C:\H2K\Git\Catalogacion\webcatalogacion\WebAppCatalogacion\ClassDAO\bin\Debug\netstandard2.0\ClassDAO.dll
+C:\H2K\Git\Catalogacion\webcatalogacion\WebAppCatalogacion\ClassDAO\bin\Debug\netstandard2.0\ClassDAO.pdb
+C:\H2K\Git\Catalogacion\webcatalogacion\WebAppCatalogacion\ClassDAO\obj\Debug\netstandard2.0\ClassDAO.csproj.CoreCompileInputs.cache
+C:\H2K\Git\Catalogacion\webcatalogacion\WebAppCatalogacion\ClassDAO\obj\Debug\netstandard2.0\ClassDAO.AssemblyInfoInputs.cache
+C:\H2K\Git\Catalogacion\webcatalogacion\WebAppCatalogacion\ClassDAO\obj\Debug\netstandard2.0\ClassDAO.AssemblyInfo.cs
+C:\H2K\Git\Catalogacion\webcatalogacion\WebAppCatalogacion\ClassDAO\obj\Debug\netstandard2.0\ClassDAO.dll
+C:\H2K\Git\Catalogacion\webcatalogacion\WebAppCatalogacion\ClassDAO\obj\Debug\netstandard2.0\ClassDAO.pdb
+C:\Users\DELL\Desktop\AmazonPhotos\No11\WebAppCatalogacion\ClassDAO\bin\Debug\netstandard2.0\ClassDAO.deps.json
+C:\Users\DELL\Desktop\AmazonPhotos\No11\WebAppCatalogacion\ClassDAO\bin\Debug\netstandard2.0\ClassDAO.dll
+C:\Users\DELL\Desktop\AmazonPhotos\No11\WebAppCatalogacion\ClassDAO\bin\Debug\netstandard2.0\ClassDAO.pdb
+C:\Users\DELL\Desktop\AmazonPhotos\No11\WebAppCatalogacion\ClassDAO\obj\Debug\netstandard2.0\ClassDAO.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\AmazonPhotos\No11\WebAppCatalogacion\ClassDAO\obj\Debug\netstandard2.0\ClassDAO.AssemblyInfo.cs
+C:\Users\DELL\Desktop\AmazonPhotos\No11\WebAppCatalogacion\ClassDAO\obj\Debug\netstandard2.0\ClassDAO.dll
+C:\Users\DELL\Desktop\AmazonPhotos\No11\WebAppCatalogacion\ClassDAO\obj\Debug\netstandard2.0\ClassDAO.pdb
+C:\Users\DELL\Desktop\AmazonPhotos\No11\WebAppCatalogacion\ClassDAO\obj\Debug\netstandard2.0\ClassDAO.csprojAssemblyReference.cache

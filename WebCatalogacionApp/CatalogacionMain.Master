@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CatalogacionMain.master.cs" Inherits="WebCatalogacionApp.CatalogacionMain" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="css/Grid.css" rel="stylesheet" />
+    <title>Herramienta de Catalogacion</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+           <div class="header">
+            <div class="row">
+
+                <div class="col-sm">
+                    <asp:Label ID="lbltool" CssClass="lblhead" runat="server" Text="  Herramienta de Catalogacion"></asp:Label>
+                    <asp:Button ID="btnInbox" CssClass="botonhead" runat="server" Text="Solicitudes" OnClick="btnInbox_Click"/>
+                    <asp:Button ID="btnConsulta" CssClass="botonhead" runat="server" Text="Catalogo" OnClick="btnConsulta_Click" />
+                    <asp:Button ID="btnCatalogoErp" CssClass="botonhead" runat="server" Text="Catalogo ERP" OnClick="btnCatalogoErp_Click"  />
+                    <asp:Button ID="btnSolicitudERP" CssClass="botonhead" runat="server" Text="Solicitud ERP" OnClick="btnSolicitudERP_Click"  />
+                    <asp:Button ID="btnCatalogar" CssClass="botonhead" runat="server" Text="Catalogar" OnClick="btnCatalogar_Click" />
+                    <asp:Button ID="btnCatalogado" CssClass="botonhead" runat="server" Text="Items Catalogados" OnClick="btnCatalogado_Click"  />
+
+                </div>
+            </div>
+        </div>
+        <div>
+            <br />
+          
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
